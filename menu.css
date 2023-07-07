@@ -1,0 +1,24 @@
+header{
+    position: fixed;
+    width: 100%;
+    background-color: #415A77;
+}
+#menu_fixo{
+    display: flex;
+}
+
+#menu a{
+    color: white;
+}
+
+#menu li{
+    display: inline;
+    margin: 1rem;
+}
+
+#nome{
+    margin-left: 5%;
+    margin-right: 50%;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
