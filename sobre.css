@@ -1,4 +1,8 @@
 #txt_sobre{
-    max-width: 62rem;
-    margin: auto;
+    max-width: 40rem;
+    padding: 2rem;
+}
+
+#sobre{
+    display: flex;
 }
