@@ -1,8 +1,9 @@
 #contatos img{
     width: 3rem;
-    margin: 1rem;
+    margin: 2rem;
 }
 
 #contatos{
     text-align: center;
+    margin-top: 4rem;
 }
